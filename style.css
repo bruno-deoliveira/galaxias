@@ -37,7 +37,7 @@ header p {
 main{
   margin-top: 62px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 370px); /*ou troque o 370px por 1fr*/
   /*place-content: center;*/
 
   row-gap: 48px;
